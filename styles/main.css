@@ -1,0 +1,98 @@
+/*
+TODO: Use absolute layout throughout.
+*/
+
+.unit-container {
+    float: left;
+    height: 530px;
+    width: 400px;
+    border-radius: 5px;
+
+    text-align: center;
+}
+
+#attacker {
+    background-color: cornflowerblue;
+}
+
+#defender {
+    background-color: indianred;
+}
+
+.top-containers {
+    float: left;
+
+    height: 280px;
+    width: 200px;
+}
+
+
+#defender > .battle-details {
+    float: right;
+}
+
+.buttons-container {
+    float: left;
+    height: 400px;
+    width: 75px;
+
+    text-align: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
+
+table {
+    margin: auto;
+    text-align: right;
+}
+
+td input {
+    display: inline;
+    width: 20px;
+
+    text-align: center;
+}
+
+.portrait-container {
+    height: 90px;
+    width: 100px;
+    margin: auto;
+}
+
+.unit-portrait {
+    display: block;
+    margin: auto;
+}
+
+.unit-input {
+    float: left;
+    clear: both;
+    height: 50px;
+    width: 530px;
+}
+
+.unit-input > label {
+    float: left;
+    clear: left;
+}
+
+#battle-log-container {
+    position: absolute;
+    top: 390px;
+    left: 200px;
+}
+
+.flip-horizontal {
+    /*
+    Edited from form found on Stack Overflow.
+    http://stackoverflow.com/a/1309268
+    */
+    -webkit-transform: scaleX(-1);
+    -moz-transform: scaleX(-1);
+    -ms-transform: scaleX(-1);
+    -o-transform: scaleX(-1);
+    transform: scaleX(-1);
+}

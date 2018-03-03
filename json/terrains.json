@@ -1,0 +1,49 @@
+[
+    {
+        "name":"Normal",
+        "defence":0,
+        "avoid":0,
+        "heal":0
+    },
+
+    {
+        "name":"-15 Avo",
+        "defence":0,
+        "avoid":-15,
+        "heal":0
+    },
+
+    {
+        "name":"+15 Avo",
+        "defence":0,
+        "avoid":15,
+        "heal":0
+    },
+
+    {
+        "name":"-30 Avo",
+        "defence":0,
+        "avoid":-30,
+        "heal":0
+    },
+
+    {
+        "name":"+30 Avo",
+        "defence":0,
+        "avoid":30,
+        "heal":0
+    },
+
+    {
+        "name":"-45 Avo",
+        "defence":0,
+        "avoid":-45,
+        "heal":0
+    },
+
+    {
+        "name":"+45 Avo",
+        "defence":0,
+        "avoid":45,
+        "heal":0
+    }]
