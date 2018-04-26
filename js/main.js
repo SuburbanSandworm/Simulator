@@ -243,8 +243,8 @@ $(document).ready(function() {
         unit.setWeapon(Weapons[$dropdownSelector.val()]);
     };
 
-    var unit1 = Characters["Billy"].copy();
-    var unit2 = Characters["Yuo'Jin"].copy();
+    var unit1 = Characters["Lysanna"].copy();
+    var unit2 = Characters["Eirnar"].copy();
     var separation = $battleSeparationDropdown.val();
 
     updateUnitDropdown($unit1UnitDropdown);
