@@ -158,10 +158,10 @@
 
         "baseLevel":1,
 
-        "HP":21,
-        "power":7,
+        "HP":22,
+        "power":8,
         "skill":6,
-        "speed":7,
+        "speed":8,
         "luck":4,
         "defence":3,
         "resistance":2,
