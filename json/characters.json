@@ -120,13 +120,13 @@
 
         "baseLevel":1,
 
-        "HP":21,
-        "power":7,
+        "HP":22,
+        "power":8,
         "skill":5,
-        "speed":8,
+        "speed":9,
         "luck":2,
-        "defence":3,
-        "resistance":2,
+        "defence":4,
+        "resistance":3,
         "constitution":99,
 
         "weaponSkill":{
