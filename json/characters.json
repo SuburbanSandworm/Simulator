@@ -82,12 +82,12 @@
 
         "baseLevel":1,
 
-        "HP":22,
-        "power":6,
-        "skill":5,
+        "HP":23,
+        "power":7,
+        "skill":6,
         "speed":7,
         "luck":4,
-        "defence":6,
+        "defence":7,
         "resistance":4,
         "constitution":99,
 
@@ -136,7 +136,7 @@
             "bow":0,
             "anima":0,
             "dark":0,
-            "light":1,
+            "light":2,
             "staff":0
         },
 
@@ -159,9 +159,9 @@
         "baseLevel":1,
 
         "HP":22,
-        "power":8,
+        "power":9,
         "skill":6,
-        "speed":8,
+        "speed":9,
         "luck":4,
         "defence":3,
         "resistance":2,
@@ -710,5 +710,119 @@
             "luck":45,
             "defence":35,
             "resistance":5
+        }
+    },
+
+    {
+        "name":"Young Swordsman",
+
+        "job":"Lodestar",
+
+        "baseLevel":1,
+
+        "HP":23,
+        "power":7,
+        "skill":12,
+        "speed":14,
+        "luck":8,
+        "defence":5,
+        "resistance":1,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":3,
+            "lance":0,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
+        }
+    },
+
+    {
+        "name":"Angry Legionnaire",
+
+        "job":"Legionnarie",
+
+        "baseLevel":1,
+
+        "HP":28,
+        "power":11,
+        "skill":8,
+        "speed":5,
+        "luck":4,
+        "defence":9,
+        "resistance":0,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":2,
+            "lance":2,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
+        }
+    },
+
+    {
+        "name":"Composed Merc",
+
+        "job":"Mercenary",
+
+        "baseLevel":1,
+
+        "HP":26,
+        "power":9,
+        "skill":10,
+        "speed":9,
+        "luck":1,
+        "defence":6,
+        "resistance":3,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":2,
+            "lance":2,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
         }
     }]

@@ -13,6 +13,32 @@
         "usedBy":[],
         "effectiveAgainst":[]    },
     {
+        "name":"Cascading Blade",
+        "weaponType":"sword",
+        "rank":1,
+
+        "might":5,
+        "hit":85,
+        "crit":0,
+        "minRange":1,
+        "maxRange":1,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
+        "name":"Steel Sword",
+        "weaponType":"sword",
+        "rank":2,
+
+        "might":8,
+        "hit":90,
+        "crit":0,
+        "minRange":1,
+        "maxRange":1,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
         "name":"Iron Lance",
         "weaponType":"lance",
         "rank":1,
