@@ -38,44 +38,6 @@
     },
 
     {
-        "name":"Eirnar",
-
-        "job":"Scout",
-
-        "baseLevel":1,
-
-        "HP":25,
-        "power":10,
-        "skill":9,
-        "speed":7,
-        "luck":8,
-        "defence":6,
-        "resistance":4,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":0,
-            "bow":2,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":0,
-            "power":0,
-            "skill":0,
-            "speed":0,
-            "luck":0,
-            "defence":0,
-            "resistance":0
-        }
-    },
-
-    {
         "name":"Billy",
 
         "job":"Legionnarie",
@@ -116,7 +78,7 @@
     {
         "name":"Yuo'Jin",
 
-        "job":"Hoplite",
+        "job":"Hastatus",
 
         "baseLevel":1,
 
@@ -200,7 +162,7 @@
         "power":10,
         "skill":8,
         "speed":8,
-        "luck":3,
+        "luck":4,
         "defence":5,
         "resistance":2,
         "constitution":99,
@@ -228,505 +190,19 @@
     },
 
     {
-        "name":"Ballista",
-
-        "job":"Ballista",
-
-        "baseLevel":1,
-
-        "HP":70,
-        "power":12,
-        "skill":2,
-        "speed":0,
-        "luck":0,
-        "defence":0,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":0,
-            "bow":1,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0        },
-
-        "statGrowths":{
-            "HP":90,
-            "power":50,
-            "skill":60,
-            "speed":40,
-            "luck":65,
-            "defence":30,
-            "resistance":15
-        }
-    },
-
-    {
-        "name":"Knowles",
-
-        "job":"Archer",
-
-        "baseLevel":1,
-
-        "HP":25,
-        "power":8,
-        "skill":10,
-        "speed":6,
-        "luck":2,
-        "defence":5,
-        "resistance":1,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":0,
-            "bow":3,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":90,
-            "power":50,
-            "skill":60,
-            "speed":40,
-            "luck":65,
-            "defence":30,
-            "resistance":15
-        }
-    },
-
-    {
-        "name":"A Knight",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":23,
-        "power":7,
-        "skill":5,
-        "speed":1,
-        "luck":0,
-        "defence":9,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":2,
-            "lance":2,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":135,
-            "power":60,
-            "skill":45,
-            "speed":25,
-            "luck":40,
-            "defence":35,
-            "resistance":35
-        }
-    },
-
-    {
-        "name":"B Knight",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":23,
-        "power":7,
-        "skill":5,
-        "speed":1,
-        "luck":0,
-        "defence":9,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":2,
-            "axe":2,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":135,
-            "power":60,
-            "skill":45,
-            "speed":25,
-            "luck":40,
-            "defence":35,
-            "resistance":35
-        }
-    },
-
-    {
-        "name":"C Legionnaire",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":20,
-        "power":6,
-        "skill":6,
-        "speed":5,
-        "luck":0,
-        "defence":6,
-        "resistance":1,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":2,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0        },
-
-        "statGrowths":{
-            "HP":110,
-            "power":40,
-            "skill":40,
-            "speed":25,
-            "luck":50,
-            "defence":55,
-            "resistance":15         }
-    },
-
-    {
-        "name":"D Legionnaire",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":20,
-        "power":6,
-        "skill":6,
-        "speed":5,
-        "luck":0,
-        "defence":6,
-        "resistance":1,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":2,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0        },
-
-        "statGrowths":{
-            "HP":110,
-            "power":40,
-            "skill":40,
-            "speed":25,
-            "luck":50,
-            "defence":55,
-            "resistance":15         }
-    },
-
-    {
-        "name":"E Myrmidon",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":17,
-        "power":4,
-        "skill":9,
-        "speed":12,
-        "luck":0,
-        "defence":2,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":2,
-            "lance":0,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":90,
-            "power":40,
-            "skill":55,
-            "speed":50,
-            "luck":70,
-            "defence":25,
-            "resistance":25
-        }
-    },
-
-    {
-        "name":"F Legionnaire",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":20,
-        "power":6,
-        "skill":6,
-        "speed":5,
-        "luck":0,
-        "defence":6,
-        "resistance":1,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":2,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0        },
-
-        "statGrowths":{
-            "HP":110,
-            "power":40,
-            "skill":40,
-            "speed":25,
-            "luck":50,
-            "defence":55,
-            "resistance":15         }
-    },
-
-    {
-        "name":"G Archer",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":17,
-        "power":7,
-        "skill":8,
-        "speed":5,
-        "luck":0,
-        "defence":4,
-        "resistance":1,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":0,
-            "bow":1,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":90,
-            "power":50,
-            "skill":60,
-            "speed":40,
-            "luck":65,
-            "defence":30,
-            "resistance":15
-        }
-    },
-
-    {
-        "name":"H Knight",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":23,
-        "power":9,
-        "skill":7,
-        "speed":1,
-        "luck":0,
-        "defence":7,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":2,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":135,
-            "power":60,
-            "skill":45,
-            "speed":25,
-            "luck":40,
-            "defence":35,
-            "resistance":35
-        }
-    },
-
-    {
-        "name":"I Knight",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":22,
-        "power":9,
-        "skill":6,
-        "speed":1,
-        "luck":0,
-        "defence":9,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":2,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":135,
-            "power":60,
-            "skill":45,
-            "speed":25,
-            "luck":40,
-            "defence":35,
-            "resistance":35
-        }
-    },
-
-    {
-        "name":"J Mercenary",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":20,
-        "power":8,
-        "skill":4,
-        "speed":6,
-        "luck":0,
-        "defence":5,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":2,
-            "lance":0,
-            "axe":0,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":100,
-            "power":40,
-            "skill":50,
-            "speed":40,
-            "luck":55,
-            "defence":35,            "resistance":20
-        }
-    },
-
-    {
-        "name":"K Fighter",
-
-        "job":"Guard",
-
-        "baseLevel":1,
-
-        "HP":20,
-        "power":8,
-        "skill":6,
-        "speed":3,
-        "luck":0,
-        "defence":5,
-        "resistance":0,
-        "constitution":99,
-
-        "weaponSkill":{
-            "sword":0,
-            "lance":0,
-            "axe":1,
-            "bow":0,
-            "anima":0,
-            "dark":0,
-            "light":0,
-            "staff":0
-        },
-
-        "statGrowths":{
-            "HP":120,
-            "power":60,
-            "skill":50,
-            "speed":30,
-            "luck":45,
-            "defence":35,
-            "resistance":5
-        }
-    },
-
-    {
-        "name":"Young Swordsman",
+        "name":"Knox",
 
         "job":"Lodestar",
 
         "baseLevel":1,
 
-        "HP":23,
+        "HP":24,
         "power":7,
-        "skill":12,
+        "skill":13,
         "speed":14,
-        "luck":8,
+        "luck":9,
         "defence":5,
-        "resistance":1,
+        "resistance":2,
         "constitution":99,
 
         "weaponSkill":{
@@ -752,17 +228,17 @@
     },
 
     {
-        "name":"Angry Legionnaire",
+        "name":"Cuthbert",
 
         "job":"Legionnarie",
 
         "baseLevel":1,
 
-        "HP":28,
-        "power":11,
-        "skill":8,
+        "HP":29,
+        "power":12,
+        "skill":9,
         "speed":5,
-        "luck":4,
+        "luck":5,
         "defence":9,
         "resistance":0,
         "constitution":99,
@@ -790,7 +266,7 @@
     },
 
     {
-        "name":"Composed Merc",
+        "name":"Alain",
 
         "job":"Mercenary",
 
@@ -824,5 +300,418 @@
             "luck":0,
             "defence":0,
             "resistance":0
+        }
+    },
+
+    {
+        "name":"Eirnar",
+
+        "job":"Scout",
+
+        "baseLevel":1,
+
+        "HP":27,
+        "power":11,
+        "skill":10,
+        "speed":8,
+        "luck":9,
+        "defence":7,
+        "resistance":5,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":0,
+            "bow":2,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
+        }
+    },
+
+    {
+        "name":"Gallant Schmuck",
+
+        "job":"Mercenary",
+
+        "baseLevel":1,
+
+        "HP":22,
+        "power":7,
+        "skill":6,
+        "speed":4,
+        "luck":3,
+        "defence":8,
+        "resistance":2,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":2,
+            "lance":0,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
+        }
+    }
+
+,    {
+        "name":"Lt. Lee",
+
+        "job":"Seeker",
+
+        "baseLevel":1,
+
+        "HP":23,
+        "power":9,
+        "skill":11,
+        "speed":14,
+        "luck":4,
+        "defence":3,
+        "resistance":6,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":2,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":90,
+            "power":40,
+            "skill":55,
+            "speed":50,
+            "luck":70,
+            "defence":25,
+            "resistance":25
+        }
+    },
+
+    {
+        "name":"AB Pyromancer",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":19,
+        "power":5,
+        "skill":8,
+        "speed":9,
+        "luck":2,
+        "defence":2,
+        "resistance":5,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":2,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":100,
+            "power":40,
+            "skill":50,
+            "speed":40,
+            "luck":55,
+            "defence":35,            "resistance":20
+        }
+    },
+
+    {
+        "name":"CD Hastatus",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":19,
+        "power":8,
+        "skill":6,
+        "speed":11,
+        "luck":2,
+        "defence":4,
+        "resistance":1,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":2,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":0,
+            "power":0,
+            "skill":0,
+            "speed":0,
+            "luck":0,
+            "defence":0,
+            "resistance":0
+        }
+    },
+
+    {
+        "name":"Lt. Candor",
+
+        "job":"Legionnaire",
+
+        "baseLevel":1,
+
+        "HP":28,
+        "power":7,
+        "skill":8,
+        "speed":5,
+        "luck":3,
+        "defence":8,
+        "resistance":3,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":3,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0        },
+
+        "statGrowths":{
+            "HP":110,
+            "power":40,
+            "skill":40,
+            "speed":25,
+            "luck":50,
+            "defence":55,
+            "resistance":15         }
+    },
+
+    {
+        "name":"EF Legionnaire",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":22,
+        "power":7,
+        "skill":7,
+        "speed":6,
+        "luck":0,
+        "defence":6,
+        "resistance":1,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":2,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0        },
+
+        "statGrowths":{
+            "HP":110,
+            "power":40,
+            "skill":40,
+            "speed":25,
+            "luck":50,
+            "defence":55,
+            "resistance":15         }
+    },
+
+    {
+        "name":"GHI Fighter",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":22,
+        "power":8,
+        "skill":7,
+        "speed":4,
+        "luck":1,
+        "defence":6,
+        "resistance":0,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":2,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":120,
+            "power":60,
+            "skill":50,
+            "speed":30,
+            "luck":45,
+            "defence":35,
+            "resistance":5
+        }
+    }
+
+,
+
+    {
+        "name":"JK Mercenary",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":21,
+        "power":9,
+        "skill":5,
+        "speed":7,
+        "luck":0,
+        "defence":5,
+        "resistance":0,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":2,
+            "lance":0,
+            "axe":0,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":100,
+            "power":40,
+            "skill":50,
+            "speed":40,
+            "luck":55,
+            "defence":35,            "resistance":20
+        }
+    },
+
+    {
+        "name":"LM Scout",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":18,
+        "power":5,
+        "skill":8,
+        "speed":10,
+        "luck":1,
+        "defence":1,
+        "resistance":6,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":0,
+            "bow":2,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":100,
+            "power":40,
+            "skill":50,
+            "speed":40,
+            "luck":55,
+            "defence":35,            "resistance":20
+        }
+    },
+
+    {
+        "name":"NO Knight",
+
+        "job":"Garrison",
+
+        "baseLevel":1,
+
+        "HP":28,
+        "power":9,
+        "skill":7,
+        "speed":2,
+        "luck":2,
+        "defence":10,
+        "resistance":1,
+        "constitution":99,
+
+        "weaponSkill":{
+            "sword":0,
+            "lance":0,
+            "axe":2,
+            "bow":0,
+            "anima":0,
+            "dark":0,
+            "light":0,
+            "staff":0
+        },
+
+        "statGrowths":{
+            "HP":120,
+            "power":60,
+            "skill":50,
+            "speed":30,
+            "luck":45,
+            "defence":35,
+            "resistance":5
         }
     }]

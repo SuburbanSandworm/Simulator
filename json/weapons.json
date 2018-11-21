@@ -39,6 +39,19 @@
         "usedBy":[],
         "effectiveAgainst":[]    },
     {
+        "name":"Bronze Lance",
+        "weaponType":"lance",
+        "rank":0,
+
+        "might":4,
+        "hit":90,
+        "crit":0,
+        "minRange":1,
+        "maxRange":1,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
         "name":"Iron Lance",
         "weaponType":"lance",
         "rank":1,
@@ -61,6 +74,32 @@
         "crit":0,
         "minRange":1,
         "maxRange":2,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
+        "name":"Soaring Spear",
+        "weaponType":"lance",
+        "rank":1,
+
+        "might":5,
+        "hit":85,
+        "crit":0,
+        "minRange":1,
+        "maxRange":1,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
+        "name":"Steel Lance",
+        "weaponType":"lance",
+        "rank":2,
+
+        "might":9,
+        "hit":80,
+        "crit":0,
+        "minRange":1,
+        "maxRange":1,
 
         "usedBy":[],
         "effectiveAgainst":[]    },
@@ -117,19 +156,6 @@
         "usedBy":[],
         "effectiveAgainst":[]    },
     {
-        "name":"Bronze Bow",
-        "weaponType":"bow",
-        "rank":0,
-
-        "might":3,
-        "hit":95,
-        "crit":0,
-        "minRange":2,
-        "maxRange":3,
-
-        "usedBy":[],
-        "effectiveAgainst":[]    },
-    {
         "name":"Iron Bow",
         "weaponType":"bow",
         "rank":1,
@@ -169,25 +195,25 @@
         "usedBy":[],
         "effectiveAgainst":[]    },
     {
-        "name":"Steel Crossbow",
-        "weaponType":"bow",
-        "rank":2,
-
-        "might":6,
-        "hit":80,
-        "crit":-10,
-        "minRange":2,
-        "maxRange":5,
-
-        "usedBy":[],
-        "effectiveAgainst":[]    },
-    {
         "name":"Ignite",
         "weaponType":"light",
         "rank":0,
 
         "might":2,
         "hit":90,
+        "crit":0,
+        "minRange":1,
+        "maxRange":2,
+
+        "usedBy":[],
+        "effectiveAgainst":[]    },
+    {
+        "name":"Sacred Flame",
+        "weaponType":"light",
+        "rank":1,
+
+        "might":5,
+        "hit":85,
         "crit":0,
         "minRange":1,
         "maxRange":2,

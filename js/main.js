@@ -244,7 +244,7 @@ $(document).ready(function() {
     };
 
     var unit1 = Characters["Lysanna"].copy();
-    var unit2 = Characters["Eirnar"].copy();
+    var unit2 = Characters["Billy"].copy();
     var separation = $battleSeparationDropdown.val();
 
     updateUnitDropdown($unit1UnitDropdown);
