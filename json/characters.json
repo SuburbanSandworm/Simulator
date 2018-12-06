@@ -9,10 +9,10 @@
         "HP":31,
         "power":9,
         "skill":6,
-        "speed":8,
-        "luck":10,
+        "speed":9,
+        "luck":11,
         "defence":4,
-        "resistance":7,
+        "resistance":8,
         "constitution":99,
 
         "weaponSkill":{
@@ -44,9 +44,9 @@
 
         "baseLevel":1,
 
-        "HP":23,
+        "HP":24,
         "power":7,
-        "skill":6,
+        "skill":7,
         "speed":7,
         "luck":4,
         "defence":7,
@@ -120,13 +120,13 @@
 
         "baseLevel":1,
 
-        "HP":22,
-        "power":9,
-        "skill":6,
-        "speed":9,
+        "HP":23,
+        "power":10,
+        "skill":7,
+        "speed":10,
         "luck":4,
-        "defence":3,
-        "resistance":2,
+        "defence":4,
+        "resistance":3,
         "constitution":99,
 
         "weaponSkill":{
